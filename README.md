@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Rodion (or simply Ro), and I'm a beginner frontend developer.
+My name is Rodion (or just Ro), and I'm a beginner frontend developer.
 
 - 🌱 I’m currently learning object-oriented JavaScript, prototype chain
 - 🧩 More frameworks to the framework god
