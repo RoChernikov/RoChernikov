@@ -12,16 +12,15 @@ My name is Rodion (or simply Ro), and I'm a beginner frontend developer.
 <br>
 </br>
 <div>
-<img class="icon" src="./src/VSCode_icon.png" alt="VS Code" height = 30>
-<img class="icon" src="./src/html5_icon.png" alt="HTML5" height = 30>
-<img class="icon" src="./src/css3_icon.png" alt="CSS3" height = 30>
-<img class="icon" src="./src/js_icon.png" alt="JavaScript" height = 30>
-<img class="icon" src="./src/SASS_icon.png" alt="SASS" height = 30>
-<img class="icon" src="./src/git_icon.png" alt="git" height = 30>
-<img class="icon" src="./src/webpack_icon.png" alt="webpack" height = 30>
+<img src="./src/VSCode_icon.png" alt="VS Code" height = 30>
+<img src="./src/html5_icon.png" alt="HTML5" height = 30>
+<img src="./src/css3_icon.png" alt="CSS3" height = 30>
+<img src="./src/js_icon.png" alt="JavaScript" height = 30>
+<img src="./src/SASS_icon.png" alt="SASS" height = 30>
+<img src="./src/git_icon.png" alt="git" height = 30>
+<img src="./src/webpack_icon.png" alt="webpack" height = 30>
 </div>
-
-<h1 align="center"><a  href="https://chromedino.com" target="_blank"><img src="./src/dino.gif" width="100%" alt="T-Rex Chrome Dino Game"></a></h1>
+<a  href="https://chromedino.com" target="_blank"><img src="./src/dino.gif" width="100%" alt="T-Rex Chrome Dino Game"></a>
 
 <!--
 **RoChernikov/RoChernikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
