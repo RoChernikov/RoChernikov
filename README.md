@@ -10,6 +10,8 @@ My name is Rodion (or simply Ro), and I'm a beginner frontend developer.
 - 📫 How to reach me: http://t.me/ro_runner
 - ⚡ Fun fact: The moon has moonquakes.
 
+<h1 align="center"><a  href="https://chromedino.com" target="_blank"><img src="https://github.com/mrousavy/mrousavy/raw/master/img/dino.gif" width="100%" alt="T-Rex Chrome Dino Game"></a></h1>
+
 <!--
 **RoChernikov/RoChernikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
