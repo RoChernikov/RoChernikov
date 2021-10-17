@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏻
 
 My name is Rodion (or just Ro), and I'm a beginner frontend developer.
 
