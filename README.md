@@ -2,8 +2,8 @@
 
 My name is Rodion (or just Ro), and I'm a beginner frontend developer.
 
-- 🌱 I’m currently learning object-oriented JavaScript, prototype chain
-- 🧩 More frameworks to the framework god
+- 👨🏻‍🎓 Yandex.Practicum student
+- 👨🏻‍🍼 Help junior students of "Yandex.Practicum" as a senior student
 - 🤝 I want to collaborate with experienced colleagues
 - ✍🏻 I strive to write beautiful and clean code
 - 💬 Ask me about 
