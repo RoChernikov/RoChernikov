@@ -5,7 +5,7 @@ My name is Rodion (or just Ro), and I'm a beginner frontend developer.
 - 👨🏻‍🎓 Yandex.Practicum student
 - 👨🏻‍🍼 Help junior students of "Yandex.Practicum" as a senior student
 - 🤝 Ready to collaborate with experienced colleagues
-- ✍🏻 Strive to write beautiful and clean code
+- ✍🏻 Aimed at beautifull and clean code writing
 - 💬 Ask me about 
 - 📫 How to reach me: http://t.me/ro_runner
 - ⚡ Fun fact: The moon has moonquakes.
