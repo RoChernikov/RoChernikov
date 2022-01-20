@@ -16,7 +16,8 @@ My name is Rodion (or just Ro), and I'm a beginner frontend developer.
 <img src="./src/html5_icon.png" alt="HTML5" height = 30>
 <img src="./src/css3_icon.png" alt="CSS3" height = 30>
 <img src="./src/js_icon.png" alt="JavaScript" height = 30>
-  <img src="./src/react_icon.png" alt="React" height = 30>
+<img src="./src/react_icon.png" alt="React" height = 30>
+<img src="./src/redux_icon.png" alt="Redux" height = 30>
 <img src="./src/SASS_icon.png" alt="SASS" height = 30>
 <img src="./src/git_icon.png" alt="git" height = 30>
 <img src="./src/webpack_icon.png" alt="webpack" height = 30>
