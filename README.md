@@ -1,4 +1,4 @@
-### Hi there 👋🏻
+# Hi there <img src="./src/wave.gif" width="30px">
 
 My name is Rodion (or just Ro), and I'm a beginner frontend developer.
 
@@ -10,7 +10,6 @@ My name is Rodion (or just Ro), and I'm a beginner frontend developer.
 - 📫 How to reach me: http://t.me/ro_runner
 - ⚡ Fun fact: The moon has moonquakes.
 <br>
-</br>
 <div>
 <img src="./src/VSCode_icon.png" alt="VS Code" height = 30>
 <img src="./src/html5_icon.png" alt="HTML5" height = 30>
@@ -22,7 +21,10 @@ My name is Rodion (or just Ro), and I'm a beginner frontend developer.
 <img src="./src/git_icon.png" alt="git" height = 30>
 <img src="./src/webpack_icon.png" alt="webpack" height = 30>
 </div>
-<a  href="https://chromedino.com" target="_blank"><img src="./src/dino.gif" width="100%" alt="T-Rex Chrome Dino Game"></a>
+<br>
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rochernikov&theme=nord&bg_color=-45,0e1420,1e2430&border_radius=10&border_color=2e3440&layout=compact&card_width=250)
+<!-- <a  href="https://chromedino.com" target="_blank"><img src="./src/dino.gif" width="100%" alt="T-Rex Chrome Dino Game"></a> -->
 
 <!--
 **RoChernikov/RoChernikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
