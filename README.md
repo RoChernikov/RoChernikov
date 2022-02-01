@@ -7,7 +7,7 @@ My name is Rodion (or just Ro), and I'm a beginner frontend developer.
 - 🤝 Ready to collaborate with experienced colleagues
 - ✍🏻 Aimed at beautifull and clean code writing
 - 💬 Ask me about 
-- 📫 How to reach me: <a  href="http://t.me/ro_runner" target="_blank"> <img src="./src/social/tg.png" alt="Telegram" height = 20></a><a  href="https://www.instagram.com/ro.runner/" target="_blank"> <img src="./src/social/ig.png" alt="Instagram" height = 20></a><a  href="ro.chernikov@gmail.com" target="_blank"> <img src="./src/social/gm.png" alt="Gmail" height = 20></a>
+- 📫 How to reach me: <a  href="http://t.me/ro_runner" target="_blank"> <img src="./src/social/tg.png" alt="Telegram" height = 20></a><a  href="https://www.instagram.com/ro.runner/" target="_blank"> <img src="./src/social/ig.png" alt="Instagram" height = 20></a><a  href="mailto:ro.chernikov@gmail.com" target="_blank"> <img src="./src/social/gm.png" alt="Gmail" height = 20></a>
 - ⚡ Fun fact: The moon has moonquakes.
 <br>
 <div>
