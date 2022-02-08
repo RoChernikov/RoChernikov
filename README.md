@@ -24,7 +24,7 @@ My name is Rodion (or just Ro), and I'm a beginner frontend developer.
 <br>
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rochernikov&bg_color=-45,0e1420,1e2430&count_private=true&border_radius=15&border_color=2e3440&layout=compact&card_width=250&hide_border=true&theme=nord&cache_seconds=1800)
-![stats](https://github-readme-stats.vercel.app/api?username=rochernikov&custom_title=GitHub%20Stats&count_private=true&show_icons=true&bg_color=-45,0e1420,262c38&icon_color=81A1C1&border_radius=15&border_color=2e3440&hide=contribs&line_height=24&hide_border=true&theme=nord&cache_seconds=1800)
+![stats](https://github-readme-stats.vercel.app/api?username=rochernikov&custom_title=GitHub%20Stats&count_private=true&show_icons=true&bg_color=-45,0e1420,262c38&icon_color=81A1C1&border_radius=15&border_color=2e3440&hide=stars&line_height=24&hide_border=true&theme=nord&cache_seconds=1800)
 
 
 <!-- <a  href="https://chromedino.com" target="_blank"><img src="./src/dino.gif" width="100%" alt="T-Rex Chrome Dino Game"></a> -->
