@@ -25,6 +25,7 @@ My name is Rodion (or just Ro), and I'm a beginner frontend developer.
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rochernikov&theme=nord&bg_color=-45,0e1420,1e2430&border_radius=10&border_color=2e3440&layout=compact&card_width=250)
 
+
 <!-- <a  href="https://chromedino.com" target="_blank"><img src="./src/dino.gif" width="100%" alt="T-Rex Chrome Dino Game"></a> -->
 
 <!--
