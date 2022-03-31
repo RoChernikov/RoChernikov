@@ -1,6 +1,6 @@
 # Hi there <img src="./src/wave.gif" width="30px">
 
-My name is Rodion (or just Ro), and I'm a beginner frontend developer.
+My name is Rodion (or just Ro), and I'm a frontend developer.
 
 - 👨🏻‍🎓 Yandex.Practicum student
 - 👨🏻‍🍼 Help junior students of "Yandex.Practicum" as a senior student
