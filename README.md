@@ -1,4 +1,4 @@
-# Hi there <img src="./src/wave.gif" width="30px">
+# Hi there <img src="./src/wave.gif" width="30">
 
 My name is Rodion (or just Ro), and I'm a frontend developer.
 
